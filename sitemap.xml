@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://scipioceaser.netlify.com/projects/</loc>
+    <lastmod>2019-11-07T09:51:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scipioceaser.netlify.com/tags/projects/</loc>
+    <lastmod>2019-11-07T09:51:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scipioceaser.netlify.com/tags/</loc>
+    <lastmod>2019-11-07T09:51:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scipioceaser.netlify.com/posts/</loc>
+    <lastmod>2019-11-06T19:39:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scipioceaser.netlify.com/posts/test-post/</loc>
+    <lastmod>2019-11-06T19:39:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scipioceaser.netlify.com/tags/testing/</loc>
+    <lastmod>2019-11-06T19:39:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scipioceaser.netlify.com/posts/tags-test/</loc>
+    <lastmod>2019-11-06T10:09:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scipioceaser.netlify.com/about/</loc>
+    <lastmod>2019-11-06T09:51:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scipioceaser.netlify.com/</loc>
+    <lastmod>2019-11-06T09:51:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scipioceaser.netlify.com/posts/hello-world/</loc>
+    <lastmod>2019-11-05T15:43:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scipioceaser.netlify.com/categories/</loc>
+  </url>
+  
+</urlset>

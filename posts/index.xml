@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The clutter galaxy</title>
+    <link>https://scipioceaser.netlify.com/posts/</link>
+    <description>Recent content in Posts on The clutter galaxy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Nov 2019 19:39:16 +0100</lastBuildDate>
+    
+	<atom:link href="https://scipioceaser.netlify.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test Post</title>
+      <link>https://scipioceaser.netlify.com/posts/test-post/</link>
+      <pubDate>Wed, 06 Nov 2019 19:39:16 +0100</pubDate>
+      
+      <guid>https://scipioceaser.netlify.com/posts/test-post/</guid>
+      <description>Just here checking an update function. Of course.</description>
+    </item>
+    
+    <item>
+      <title>Tags Test</title>
+      <link>https://scipioceaser.netlify.com/posts/tags-test/</link>
+      <pubDate>Wed, 06 Nov 2019 10:09:58 +0100</pubDate>
+      
+      <guid>https://scipioceaser.netlify.com/posts/tags-test/</guid>
+      <description>Boy, Hugo is really cool.
+No?
+Look at the TAGS!</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://scipioceaser.netlify.com/posts/hello-world/</link>
+      <pubDate>Tue, 05 Nov 2019 15:43:57 +0100</pubDate>
+      
+      <guid>https://scipioceaser.netlify.com/posts/hello-world/</guid>
+      <description>Hello to the world!
+Ignore this letter, sent by the wonderful messenger muses of code, for it is merely to test HUGO.
+And of course netlify.
+Anyway&amp;hellip;
+Here&amp;rsquo;s a picture&amp;hellip;
+Totally not related to tech.
+
+In any way&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

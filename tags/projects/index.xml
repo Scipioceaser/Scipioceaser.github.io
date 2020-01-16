@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>projects on The clutter galaxy</title>
+    <link>https://scipioceaser.netlify.com/tags/projects/</link>
+    <description>Recent content in projects on The clutter galaxy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Nov 2019 09:51:54 +0100</lastBuildDate>
+    
+	<atom:link href="https://scipioceaser.netlify.com/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Completed projects</title>
+      <link>https://scipioceaser.netlify.com/projects/</link>
+      <pubDate>Thu, 07 Nov 2019 09:51:54 +0100</pubDate>
+      
+      <guid>https://scipioceaser.netlify.com/projects/</guid>
+      <description>Find my code projects here
+Find my &amp;ldquo;completed&amp;rdquo; games here 
+Youtube-dl autohotkey script This is an autohotkey script that uses youtube-dl to copy the url and download to the video folder. The shortcut is ctrl+alt+shift+d, put in your windows startup folder, place youtube-dl.conf file and youtube-dl.exe in your user folder. Download executable   Dhewm 3 starter This is the base folder for the doom 3 starter kit, without dhewm 3 source code or scripts te generate the solution files.</description>
+    </item>
+    
+  </channel>
+</rss>
