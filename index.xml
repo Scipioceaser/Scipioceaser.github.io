@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The clutter galaxy</title>
-    <link>https://scipioceaser.netlify.com/</link>
+    <link>https://scipioceaser.github.io/</link>
     <description>Recent content on The clutter galaxy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Nov 2019 09:51:52 +0100</lastBuildDate>
     
-	<atom:link href="https://scipioceaser.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://scipioceaser.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Completed projects</title>
-      <link>https://scipioceaser.netlify.com/projects/</link>
+      <link>https://scipioceaser.github.io/projects/</link>
       <pubDate>Thu, 07 Nov 2019 09:51:54 +0100</pubDate>
       
-      <guid>https://scipioceaser.netlify.com/projects/</guid>
+      <guid>https://scipioceaser.github.io/projects/</guid>
       <description>Find my code projects here
 Find my &amp;ldquo;completed&amp;rdquo; games here 
 Youtube-dl autohotkey script This is an autohotkey script that uses youtube-dl to copy the url and download to the video folder. The shortcut is ctrl+alt+shift+d, put in your windows startup folder, place youtube-dl.conf file and youtube-dl.exe in your user folder. Download executable   Dhewm 3 starter This is the base folder for the doom 3 starter kit, without dhewm 3 source code or scripts te generate the solution files.</description>
@@ -24,19 +24,19 @@ Youtube-dl autohotkey script This is an autohotkey script that uses youtube-dl t
     
     <item>
       <title>Test Post</title>
-      <link>https://scipioceaser.netlify.com/posts/test-post/</link>
+      <link>https://scipioceaser.github.io/posts/test-post/</link>
       <pubDate>Wed, 06 Nov 2019 19:39:16 +0100</pubDate>
       
-      <guid>https://scipioceaser.netlify.com/posts/test-post/</guid>
+      <guid>https://scipioceaser.github.io/posts/test-post/</guid>
       <description>Just here checking an update function. Of course.</description>
     </item>
     
     <item>
       <title>Tags Test</title>
-      <link>https://scipioceaser.netlify.com/posts/tags-test/</link>
+      <link>https://scipioceaser.github.io/posts/tags-test/</link>
       <pubDate>Wed, 06 Nov 2019 10:09:58 +0100</pubDate>
       
-      <guid>https://scipioceaser.netlify.com/posts/tags-test/</guid>
+      <guid>https://scipioceaser.github.io/posts/tags-test/</guid>
       <description>Boy, Hugo is really cool.
 No?
 Look at the TAGS!</description>
@@ -44,10 +44,10 @@ Look at the TAGS!</description>
     
     <item>
       <title>About</title>
-      <link>https://scipioceaser.netlify.com/about/</link>
+      <link>https://scipioceaser.github.io/about/</link>
       <pubDate>Wed, 06 Nov 2019 09:51:54 +0100</pubDate>
       
-      <guid>https://scipioceaser.netlify.com/about/</guid>
+      <guid>https://scipioceaser.github.io/about/</guid>
       <description> This is the personal website of Alex Nagel, clutter-designer extraordinaire.
 I have no skills, only vague ideas. 10242th most pretentious person on the web.
 Contact me:  My digital letterbox: awnagel700@gmail.com
@@ -58,10 +58,10 @@ Contact me:  My digital letterbox: awnagel700@gmail.com
     
     <item>
       <title>Hello World</title>
-      <link>https://scipioceaser.netlify.com/posts/hello-world/</link>
+      <link>https://scipioceaser.github.io/posts/hello-world/</link>
       <pubDate>Tue, 05 Nov 2019 15:43:57 +0100</pubDate>
       
-      <guid>https://scipioceaser.netlify.com/posts/hello-world/</guid>
+      <guid>https://scipioceaser.github.io/posts/hello-world/</guid>
       <description>Hello to the world!
 Ignore this letter, sent by the wonderful messenger muses of code, for it is merely to test HUGO.
 And of course netlify.
